@@ -1,0 +1,1235 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.1.25)  4 FEB 2013 20:06
+entering extended mode
+ %&-line parsing enabled.
+**bare_conf.tex
+(./bare_conf.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
+(./ppgccufscar.cls (/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+Document Class: ppgccufscar 2013/02/04\ v1.0\ PPGCC USF Dissertations and Thesi
+s
+(./abnt.cls (./cvs-id.def)
+Document Class: abnt 2004/11/02 v1.27.2.1 Classe abnt (NBR6024, NBR6027, NBR602
+8, NBR14724)
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count79
+\calc@Bcount=\count80
+\calc@Adimen=\dimen102
+\calc@Bdimen=\dimen103
+\calc@Askip=\skip41
+\calc@Bskip=\skip42
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count81
+\calc@Cskip=\skip43
+)
+(/usr/share/texmf-texlive/tex/latex/tools/multicol.sty
+Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
+\c@tracingmulticols=\count82
+\mult@box=\box26
+\multicol@leftmargin=\dimen104
+\c@unbalance=\count83
+\c@collectmore=\count84
+\doublecol@number=\count85
+\multicoltolerance=\count86
+\multicolpretolerance=\count87
+\full@width=\dimen105
+\page@free=\dimen106
+\premulticols=\dimen107
+\postmulticols=\dimen108
+\multicolsep=\skip44
+\multicolbaselineskip=\skip45
+\partial@page=\box27
+\last@line=\box28
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count88
+\c@finalcolumnbadness=\count89
+\last@try=\dimen109
+\multicolovershoot=\dimen110
+\multicolundershoot=\dimen111
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+)
+(/usr/share/texmf-texlive/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count90
+\c@chapter=\count91
+\c@section=\count92
+\c@subsection=\count93
+\c@subsubsection=\count94
+\c@paragraph=\count95
+\c@subparagraph=\count96
+\c@figure=\count97
+\c@table=\count98
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
+\bibindent=\dimen112
+)
+(/usr/share/texmf-texlive/tex/latex/setspace/setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+)
+\ABNTanapindent=\skip48
+\ABNTsignwidth=\skip49
+\ABNTsignthickness=\skip50
+\ABNTsignskip=\skip51
+ (/usr/share/texmf-texlive/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(/usr/share/texmf-texlive/tex/latex/psnfss/helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+))
+(/usr/share/texmf-texlive/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+))
+(/usr/share/texmf-texlive/tex/latex/caption/caption.sty
+Package: caption 2009/10/09 v3.1k Customizing captions (AR)
+
+(/usr/share/texmf-texlive/tex/latex/caption/caption3.sty
+Package: caption3 2009/10/09 v3.1k caption3 kernel (AR)
+\captionmargin=\dimen113
+\captionmargin@=\dimen114
+\captionwidth=\dimen115
+\caption@indent=\dimen116
+\caption@parindent=\dimen117
+\caption@hangindent=\dimen118
+)
+\c@ContinuedFloat=\count99
+) (./abntcite.sty
+(./cvs-id.def)
+Package: abntcite 2003/10/13 v1.26 Chamadas de referencias no texto (NBR10520)
+ (./abntex-abrev.sty (./cvs-id.def)
+Package: abntex-abrev 2003/10/13 v1.3 Abreviacoes
+ (./nbr10522-1988.def
+(./cvs-id.def)
+File: nbr10522-1988.def 2003/10/13 v1.2 Abreviacoes bibliograficas (NBR10522:19
+88)
+) (./abntex-abrev-pt_BR.def (./cvs-id.def)
+File: abntex-abrev-pt_BR.def 2003/10/13 v1.2 definicao de abntex-abrev, traduca
+o de termos en_US/pt_BR
+)) (./nbr10520-2002.def (./cvs-id.def)
+File: nbr10520-2002.def 2003/10/13 v1.2 Definicoes para abntcite (NBR10520:2002
+)
+)
+\minimumbiblabelwidth=\skip52
+\ABCIauxlen=\skip53
+\c@ABCIaux=\count100
+\c@ABCImax=\count101
+ (/usr/share/texmf-texlive/tex/latex/ltxmisc/relsize.sty
+Package: relsize 2003/07/04 ver 3.1
+)
+\biblabelsep=\skip54
+LaTeX Info: Redefining \newblock on input line 562.
+LaTeX Info: Redefining \cite on input line 589.
+\ABCItoken=\toks17
+)
+(/var/lib/texmf/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count102
+\U@D=\dimen119
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+(/usr/share/texmf-texlive/tex/generic/babel/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+))
+(/usr/share/texmf-texlive/tex/latex/fncychap/fncychap.sty
+Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
+\RW=\skip55
+\mylen=\skip56
+\myhi=\skip57
+\px=\skip58
+\py=\skip59
+\pyy=\skip60
+\pxx=\skip61
+)
+(/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip62
+\f@ncyO@elh=\skip63
+\f@ncyO@erh=\skip64
+\f@ncyO@olh=\skip65
+\f@ncyO@orh=\skip66
+\f@ncyO@elf=\skip67
+\f@ncyO@erf=\skip68
+\f@ncyO@olf=\skip69
+\f@ncyO@orf=\skip70
+)
+\@acronym=\count103
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count104
+))
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count105
+\sf@farskip=\skip71
+\sf@captopadj=\dimen122
+\sf@capskip=\skip72
+\sf@nearskip=\skip73
+\c@subfigure=\count106
+\c@subfigure@save=\count107
+\c@lofdepth=\count108
+\c@subtable=\count109
+\c@subtable@save=\count110
+\c@lotdepth=\count111
+\sf@top=\skip74
+\sf@bottom=\skip75
+)
+(/usr/share/texmf-texlive/tex/latex/algorithm2e/algorithm2e.sty
+Package: algorithm2e 2005/10/04 v3.9 algorithms environments
+\c@AlgoLine=\count112
+
+(/usr/share/texmf-texlive/tex/latex/tools/xspace.sty
+Package: xspace 2006/05/08 v1.12 Space after command names (DPC,MH)
+)
+********************************************************
+Package `algorithm2e' Release 3.9 -- october 04 2005 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (fiorio@lirmm.fr)
+********************************************************
+\skiptotal=\skip76
+\skiprule=\skip77
+\skiphlne=\skip78
+\skiptext=\skip79
+\skiplength=\skip80
+\algomargin=\skip81
+\skipalgocfslide=\skip82
+\algowidth=\dimen123
+\inoutsize=\dimen124
+\inoutline=\dimen125
+\algocf@inoutbox=\box52
+\algocf@inputbox=\box53
+\AlCapSkip=\skip83
+\AlCapHSkip=\skip84
+\algocf@capbox=\box54
+\c@algocfline=\count113
+\c@algocf=\count114
+\algocf@algoframe=\box55
+\algocf@algobox=\box56
+) (/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(/usr/share/texmf-texlive/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks18
+)
+
+LaTeX Warning: Unused global option(s):
+    [monografia].
+
+(./bare_conf.aux)
+\openout1 = `bare_conf.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 31.
+ (/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\big@size=\dimen126
+Package caption Info: Begin \AtBeginDocument code.
+Package caption3 Info: subfig package 1.2 or 1.3 is loaded.
+LaTeX Info: Redefining \subref on input line 31.
+Package caption Info: End \AtBeginDocument code.
+
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count115
+\scratchdimen=\dimen127
+\scratchbox=\box57
+\nofMPsegments=\count116
+\nofMParguments=\count117
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count118
+\MPscratchDim=\dimen128
+\MPnumerator=\count119
+\everyMPtoPDFconversion=\toks20
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/sc' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/sc' tried instead on input line 33.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 33
+.
+ (/usr/share/texmf-texlive/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 33
+.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 33
+.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 33
+.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
+ [0
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [1]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/sc' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/sc' tried instead on input line 36.
+
+Overfull \hbox (2.8437pt too wide) in paragraph at lines 36--36
+[][] 
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 36.
+(/usr/share/texmf-texlive/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+Overfull \hbox (2.8437pt too wide) in paragraph at lines 37--37
+[][]
+ []
+
+
+Overfull \hbox (2.8437pt too wide) in paragraph at lines 38--38
+[][]
+ []
+
+
+Overfull \hbox (2.28001pt too wide) in paragraph at lines 36--39
+  $[]$
+ []
+
+[2
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/sc' in size <20.74> not available
+(Font)              Font shape `OT1/ptm/b/sc' tried instead on input line 41.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 77.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 77.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 77.
+ [3
+
+
+
+] [4
+
+
+] (./bare_conf.lof)
+\tf@lof=\write3
+\openout3 = `bare_conf.lof'.
+
+ [5
+
+] (./bare_conf.lot)
+\tf@lot=\write4
+\openout4 = `bare_conf.lot'.
+
+ [6
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+
+ []
+
+[7.0.15
+
+] (./bare_conf.toc [8.0.15
+
+])
+\tf@toc=\write5
+\openout5 = `bare_conf.toc'.
+
+ [9.0.15] (./introducao.tex
+Cap\'{\i }tulo 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <36> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+) (./redes_definidas_por_software.tex [10.0.15
+
+
+]
+Cap\'{\i }tulo 2.
+[11.0.15
+
+] [12.0.15]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 122.
+ [13.0.15]
+<cabecalhoOpenflow.png, id=51, 979.66pt x 95.35625pt>
+File: cabecalhoOpenflow.png Graphic file (type png)
+
+<use cabecalhoOpenflow.png>
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 185.
+ [14.0.15 <./cabecalhoOpenflow.png (PNG copy)>]
+<fluxoOpenflow.png, id=55, 789.95125pt x 292.09125pt>
+File: fluxoOpenflow.png Graphic file (type png)
+ <use fluxoOpenflow.png>
+<exemploSwitchOpenFlow.png, id=56, 729.72626pt x 221.82875pt>
+File: exemploSwitchOpenFlow.png Graphic file (type png)
+
+<use exemploSwitchOpenFlow.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15.0.15 <./fluxoOpenflow.png (PNG copy)>]
+<openflow.png, id=60, 1472.50125pt x 1194.4625pt>
+File: openflow.png Graphic file (type png)
+ <use openflow.png>)
+(./arquitetura_routeflow.tex [16.0.15 <./exemploSwitchOpenFlow.png (PNG copy)> 
+<./openflow.png (PNG copy)>]
+Cap\'{\i }tulo 3.
+[17.0.15
+
+] <visaoGeralRouteFlow.png, id=67, 936.49875pt x 673.51625pt>
+File: visaoGeralRouteFlow.png Graphic file (type png)
+
+<use visaoGeralRouteFlow.png>
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 76.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 76.
+ [18.0.15 <./visaoGeralRouteFlow.png>] [19.0.15]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 129.
+ [20.0.15] [21.0.15]
+Overfull \hbox (30.49168pt too wide) in paragraph at lines 242--256
+ [][] 
+ []
+
+
+Overfull \hbox (22.3469pt too wide) in paragraph at lines 274--281
+[]\OT1/ptm/m/n/12 Quando um cli-ente Rou-te-Flow ini-cia, o mesmo in-forma ao s
+er-vi-dor Rou-te-Flow informa[][]oes
+ []
+
+<rfserverAssociacao.png, id=84, 503.63156pt x 502.87875pt>
+File: rfserverAssociacao.png Graphic file (type png)
+
+<use rfserverAssociacao.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[22.0.15]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[23.0.15 <./rfserverAssociacao.png (PNG copy)>]) (./proxy_routeflow.tex
+[24.0.15] [25.0.15]
+Cap\'{\i }tulo 4.
+[26.0.15
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 89--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--99
+
+ []
+
+[27.0.15] <esquematico_geral_proxy.png, id=105, 392.30565pt x 582.0144pt>
+File: esquematico_geral_proxy.png Graphic file (type png)
+
+<use esquematico_geral_proxy.png>
+Overfull \hbox (10.68732pt too wide) in paragraph at lines 114--119
+\OT1/ptm/m/n/12 manuten[][]ao. Abaixo te-mos os prin-ci-pais com-po-nen-tes do 
+proxy como suas res-pec-ti-vas descri[][]oes: 
+ []
+
+[28.0.15 <./esquematico_geral_proxy.png (PNG copy)>] [29.0.15]
+Underfull \hbox (badness 10000) in paragraph at lines 199--206
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--218
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--224
+
+ []
+
+
+Overfull \hbox (1.70612pt too wide) in paragraph at lines 225--231
+[]|\OT1/cmtt/m/n/12 Cria^^Xc~ao do mecanismo de comunica^^Xc~ao entre processos
+, ser^^Sa explicado com
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--231
+
+ []
+
+
+Overfull \hbox (1.70612pt too wide) in paragraph at lines 232--241
+[]|\OT1/cmtt/m/n/12 Gerador de mensagens RouteFlow. Cada mensagem RouteFlow tem
+ seu tipo e
+ []
+
+
+Overfull \hbox (7.88112pt too wide) in paragraph at lines 232--241
+\OT1/cmtt/m/n/12 seus pr^^Soprios par^ametros. Todas as mensagens s~ao represen
+tadas na forma de
+ []
+
+
+Overfull \hbox (1.70612pt too wide) in paragraph at lines 232--241
+\OT1/cmtt/m/n/12 classes, a fun^^Xc~ao em quest~ao basicamente retorna a classe
+ representante da
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--241
+
+ []
+
+[30.0.15]
+Overfull \hbox (20.23112pt too wide) in paragraph at lines 242--248
+[]|\OT1/cmtt/m/n/12 Processador de mensagens RouteFlow. Sera explicado com mais
+ detalhes.|  */ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--248
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--254
+
+ []
+
+
+Overfull \hbox (38.75613pt too wide) in paragraph at lines 255--261
+[]|\OT1/cmtt/m/n/12 Fun^^Xc~ao usada para configurar regras, parcialmente forne
+cida pelo controlador.|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--261
+
+ []
+
+
+Overfull \hbox (20.23112pt too wide) in paragraph at lines 262--268
+[]|\OT1/cmtt/m/n/12 Fun^^Xc~ao usada para deletar regras, parcialmente fornecid
+a pelo controlador.|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--268
+
+ []
+
+
+Overfull \hbox (32.58113pt too wide) in paragraph at lines 269--275
+[]|\OT1/cmtt/m/n/12 Fun^^Xc~ao usada para adicionar regras, parcialmente fornec
+ida pelo controlador.|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--275
+
+ []
+
+
+Overfull \hbox (20.23112pt too wide) in paragraph at lines 276--282
+[]|\OT1/cmtt/m/n/12 Fun^^Xc~ao usada para registrar o proxy no controlador Floo
+dlight. Burocracia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--282
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--289
+
+ []
+
+
+Overfull \hbox (1.70612pt too wide) in paragraph at lines 290--296
+[]|\OT1/cmtt/m/n/12 Fun^^Xc~ao usada para iniciar a execu^^Xc~ao do proxy. Buro
+cracia exigida pelo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--296
+
+ []
+
+
+Overfull \hbox (1.70612pt too wide) in paragraph at lines 297--305
+[]|\OT1/cmtt/m/n/12 Fun^^Xc~ao usada para definir que tipo de mensagens OpenFlo
+w ser~ao tratadas
+ []
+
+
+Overfull \hbox (26.40613pt too wide) in paragraph at lines 297--305
+\OT1/cmtt/m/n/12 pelo algoritmo do proxy e especificamente por quais fun^^Xc~oe
+s. O proxy habilita
+ []
+
+
+Overfull \hbox (6.5381pt too wide) in paragraph at lines 297--305
+\OT1/cmtt/m/n/12 a fun^^Xc~ao \OT1/cmtt/m/it/12 processPacketInMessage \OT1/cmt
+t/m/n/12 a tratar as mensagens de entrada OpenFlow.|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--305
+
+ []
+
+[31.0.15]
+Overfull \hbox (7.88112pt too wide) in paragraph at lines 306--315
+[]|\OT1/cmtt/m/n/12 Fun^^Xc~ao executada sempre que um switch OpenFlow ingressa
+ na rede. Sempre
+ []
+
+
+Overfull \hbox (14.05612pt too wide) in paragraph at lines 306--315
+\OT1/cmtt/m/n/12 que isso acontece ^^Se necess^^Sario informar ao servidor Rout
+eFlow as informa^^Xc~oes
+ []
+
+
+Overfull \hbox (1.70612pt too wide) in paragraph at lines 306--315
+\OT1/cmtt/m/n/12 b^^Sasicas do ingressante para que o mesmo o associe a uma m^^
+Saquina virtual do
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--315
+
+ []
+
+
+Overfull \hbox (1.70612pt too wide) in paragraph at lines 316--324
+[]|\OT1/cmtt/m/n/12 Fun^^Xc~ao executada sempre que um switch OpenFlow abandona
+ a rede. Sempre
+ []
+
+
+Overfull \hbox (1.70612pt too wide) in paragraph at lines 316--324
+\OT1/cmtt/m/n/12 que isso acontece ^^Se necess^^Sario informar ao servidor Rout
+eFlow para o mesmo
+ []
+
+
+Overfull \hbox (7.88112pt too wide) in paragraph at lines 316--324
+\OT1/cmtt/m/n/12 remova o registro e a associa^^Xc~ao com a m^^Saquina virtual 
+do ambiente virtual.|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--324
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--346
+
+ []
+
+
+Overfull \hbox (14.05612pt too wide) in paragraph at lines 347--352
+[]|\OT1/cmtt/m/n/12 Defini^^Xc~ao dos par^ametros de acesso ao banco de dados c
+omo nome da cole^^Xc~ao
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--352
+
+ []
+
+
+LaTeX Font Warning: Font shape `OMS/ptm/bx/it' undefined
+(Font)              using `OMS/ptm/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 358.
+
+LaTeX Font Info:    Font shape `OMS/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 363.
+
+Overfull \hbox (14.05612pt too wide) in paragraph at lines 353--365
+[]|\OT1/cmtt/m/n/12 Fun^^Xc~ao usada para cria^^Xc~ao da thread n~ao bloqueante
+ que executar^^Sa a fun^^Xc~ao
+ []
+
+
+Overfull \hbox (20.23112pt too wide) in paragraph at lines 353--365
+[]|\OT1/cmtt/m/n/12 Cria a nova thread, associa a fun^^Xc~ao listenWorker e ini
+cia a sua execu^^Xc~ao.|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--365
+
+ []
+
+[32.0.15]
+Overfull \hbox (20.23112pt too wide) in paragraph at lines 366--418
+[]|\OT1/cmtt/m/n/12 Fun^^Xc~ao usada para checagem constante do banco de dados 
+^^Ra procura de alguma
+ []
+
+
+Overfull \hbox (1.70612pt too wide) in paragraph at lines 366--418
+\OT1/cmtt/m/n/12 mensagem destinada ao processo registrado. O processo se regis
+tra atrav^^Ses
+ []
+
+
+Overfull \hbox (1.70612pt too wide) in paragraph at lines 366--418
+\OT1/cmtt/m/n/12 da cria^^Xc~ao de um canal de comunica^^Xc~ao. O canal de comu
+nica^^Xc~ao nada mais ^^Se
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 366--418
+
+ []
+
+
+Overfull \hbox (1.70612pt too wide) in paragraph at lines 366--418
+[]|\OT1/cmtt/m/n/12 Define os par^ametros de busca. Os principais foram definid
+os no in^^S^^Pcio
+ []
+
+
+Overfull \hbox (38.75613pt too wide) in paragraph at lines 366--418
+\OT1/cmtt/m/n/12 do algoritmo. []E definido o nome da cole^^Xc~ao que ser^^Sa c
+hecada de tempos em tempos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 366--418
+
+ []
+
+
+Overfull \hbox (18.59343pt too wide) in paragraph at lines 366--418
+[][][][]|\OT1/cmtt/m/n/12 Extrai os dados importantes e altera o par^ametro lid
+o
+ []
+
+
+Overfull \hbox (51.10614pt too wide) in paragraph at lines 366--418
+\OT1/cmtt/m/n/12 do banco de dados para verdadeiro. Os dados s~ao passados para
+ a fun^^Xc~ao processor,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 366--418
+
+ []
+
+
+Overfull \hbox (32.58113pt too wide) in paragraph at lines 419--429
+[]|\OT1/cmtt/m/n/12 Fun^^Xc~ao usada para envio de dados ao banco de dados. O t
+ermo envio significa
+ []
+
+
+Overfull \hbox (7.88112pt too wide) in paragraph at lines 419--429
+\OT1/cmtt/m/n/12 inserir um novo conjunto de dados na cole^^Xc~ao. Serve basica
+mente para envio
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--429
+
+ []
+
+
+Overfull \hbox (7.88112pt too wide) in paragraph at lines 430--439
+[]|\OT1/cmtt/m/n/12 Fun^^Xc~ao usada para criar um novo canal de comunica^^Xc~a
+o. Usada na primeira
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--439
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--487
+
+ []
+
+
+Overfull \hbox (14.05612pt too wide) in paragraph at lines 440--487
+[]|\OT1/cmtt/m/n/12 Fun^^Xc~ao usada para tratamento das mensagens recebidas at
+rav^^Ses do mecanismo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--487
+
+ []
+
+
+Overfull \hbox (13.51022pt too wide) in paragraph at lines 440--487
+[][]|\OT1/cmtt/m/n/12 O par^ametro dados constitui basicamente do tipo de mensa
+gem e seus
+ []
+
+
+Overfull \hbox (14.05612pt too wide) in paragraph at lines 440--487
+\OT1/cmtt/m/n/12 respectivos campos. Para cada tipo de mensagem ^^Se necess^^Sa
+rio tomar uma a^^Xc~ao.|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--487
+
+ []
+
+[33.0.15] [34.0.15]
+Underfull \hbox (badness 10000) in paragraph at lines 506--512
+
+ []
+
+<mensagens.png, id=130, 493.96545pt x 338.9463pt>
+File: mensagens.png Graphic file (type png)
+ <use mensagens.png>
+Overfull \hbox (0.151pt too wide) in paragraph at lines 529--533
+[]\OT1/ptm/m/it/12 DatapathConfig: \OT1/ptm/m/n/12 men-sa-gem uti-li-zada para 
+configura[][]ao dos \OT1/ptm/m/it/12 swit-ches \OT1/ptm/m/n/12 via pro-to-colo 
+Open-
+ []
+
+[35.0.15 <./mensagens.png (PNG copy)>]) (./resultados.tex [36.0.15]
+Cap\'{\i }tulo 5.
+[37.0.15
+
+] <latencia_1sw.png, id=141, 578.16pt x 433.62pt>
+File: latencia_1sw.png Graphic file (type png)
+
+<use latencia_1sw.png> <latencia_4sw.png, id=142, 578.16pt x 433.62pt>
+File: latencia_4sw.png Graphic file (type png)
+
+<use latencia_4sw.png> [38.0.15 <./latencia_1sw.png>]
+<desempenho_1sw.png, id=147, 578.16pt x 433.62pt>
+File: desempenho_1sw.png Graphic file (type png)
+ <use desempenho_1sw.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<desempenho_4sw.png, id=148, 578.16pt x 433.62pt>
+File: desempenho_4sw.png Graphic file (type png)
+ <use desempenho_4sw.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[39.0.15 <./latencia_4sw.png>]) (./conclusao.tex [40.0.15 <./desempenho_1sw.png
+>] [41.0.15 <./desempenho_4sw.png>]
+Cap\'{\i }tulo 6.
+<multiplosProxies.png, id=161, 874.76813pt x 363.60844pt>
+File: multiplosProxies.png Graphic file (type png)
+
+<use multiplosProxies.png> [42.0.15
+
+ <./multiplosProxies.png (PNG copy)>])
+(./agradecimentos.tex [43.0.15]
+Cap\'{\i }tulo 7.
+)
+No file bare_conf.bbl.
++-------------------------------------------------------------------+
+| Comentario, sugestao ou critica sobre o abnTeX? Entre em contato: |
+|                  http://abntex.codigolivre.org.br                 |
++-------------------------------------------------------------------+
+[44.0.15
+
+] (./bare_conf.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5109 strings out of 493848
+ 70989 string characters out of 1152823
+ 161226 words of memory out of 3000000
+ 8213 multiletter control sequences out of 15000+50000
+ 53956 words of font info for 98 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 43i,13n,45p,234b,392s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texli
+ve/fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr/share/texmf-texlive/fonts/t
+ype1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
+m/cmtt12.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></us
+r/share/texmf-texlive/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-texliv
+e/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/t
+imes/utmr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
+Output written on bare_conf.pdf (45 pages, 1823926 bytes).
+PDF statistics:
+ 204 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+

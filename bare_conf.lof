@@ -1,0 +1,15 @@
+\select@language {brazil}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Cabe\IeC {\c c}alho \textit {OpenFlow} para a especifica\IeC {\c c}\IeC {\~a}o dos fluxos\relax }}{14}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Exemplo de uma entrada na tabela de fluxos \textit {OpenFlow}.\relax }}{15}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Exemplos de uso de um \textit {switch OpenFlow}.\relax }}{16}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Rede com o protocolo \textit {OpenFlow} habilitado.\relax }}{16}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Vis\IeC {\~a}o geral do RouteFlow.\relax }}{18}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Tratamento de associa\IeC {\c c}\IeC {\~o}es do servidor RouteFlow.\relax }}{23}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Componentes principais do RouteFlow.\relax }}{24}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Esquema Geral do Proxy RouteFlow (RFProxy).\relax }}{28}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Fluxo das mensagens.\relax }}{35}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Lat\IeC {\^e}ncia com um \textit {switch} em ms.\relax }}{38}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Lat\IeC {\^e}ncia com quatro \textit {switches} em ms.\relax }}{39}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Desempenho com um \textit {switch} em fluxos por segundo.\relax }}{40}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Desempenho com quatro \textit {switches} em fluxos por segundo.\relax }}{41}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Ambiente com in\IeC {\'u}meros proxies e in\IeC {\'u}meras redes.\relax }}{42}
