@@ -66,7 +66,7 @@
 % Colocando valores padrões para as monografias.
 \instituicao{Universidade São Francisco}
 \local{Itatiba}
-%\comentario{\PPGtipodoc\ Monografia apresentada ao Curso de Engenharia de Computação da Universidade São Francisco, como requisito parcial para obtenção do título de \Btipotitulo\ em Engenheiro de Computação.
+\comentario{\PPGtipodoc\ Monografia apresentada ao Curso de Engenharia de Computação da Universidade São Francisco, como requisito parcial para obtenção do título de \Btipotitulo\ em Engenheiro de Computação.}
 
 % Aquele resuminho embaixo do capitulo
 \newenvironment{resumocap}{%
@@ -103,7 +103,7 @@
 \renewcommand{\ABNTchapterfont}{\bfseries}
 \renewcommand{\tituloformat}{\Large\bfseries\MakeUppercase}
 \newcommand{\tituloformataprovacao}{\Large\bfseries\MakeUppercase}
-\renewcommand{\autorformat}{\large\scshape\bfseries}
+\renewcommand{\autorformat}{\large\bfseries}
 \newcommand{\autorformataprovacao}{\scshape\bfseries}
 \renewcommand{\orientadorformat}{\large\scshape\bfseries}
 \renewcommand{\orientadornameformat}{\orientadorformat}
@@ -124,74 +124,67 @@
 %%%             CAPA              %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\renewcommand{\capa}%
-{%
+\renewcommand{\capa} {%
  %replacing \begin{titlepage}
-\if@twocolumn
-  \@restonecoltrue\onecolumn
-\else
-  \@restonecolfalse\newpage
-\fi
+%\if@twocolumn
+ % \@restonecoltrue\onecolumn
+%\else
+%  \@restonecolfalse\newpage
+%\fi
 \thispagestyle{empty} %não exibir o numero de página
 \setcounter{page}\z@  %forma de contagem
-\vspace*{1cm} %espaço vertical
-\espaco{1.1}
+%\vspace*{1cm} %espaço vertical
 
-%\setlength{\baselineskip}{1.5\baselineskip}
+% INSTITUIÇÃO E CURSO
+\espaco{0}  %Espaçamento entre linhas
 \ABNTifnotempty{\\ABNTinstituicaodata}%
   {%
    \begin{center}
-   	 
      {\instituicaoformat\ABNTinstituicaodata\par}
      {\instituicaodetailsformat\ABNTinstituicaodetails\par}
    \end{center}
   }
-
+% AUTOR
+\vspace*{0cm}
+\espaco{1}  %Espaçamento entre linhas  
 \ABNTifnotempty{\ABNTautordata}%
   {%
   \begin{center}
-    \autorformat\ABNTautordata
+    \autorformat\ABNTautordata\
   \end{center}
   }
 \vfill\vfill
+
+% TÍTULO
 \ABNTifnotempty{\ABNTtitulodata}%
   {%
    \begin{center}
      {\tituloformat\ABNTtitulodata\par}
    \end{center}
   }
-\vfill
-%\ABNTifnotempty{\ABNTorientadordata}%
-%  {%
-%  \begin{center}
-%    {\orientadornameformat\ABNTorientadorname :\ }
-%    {\orientadorformat\ABNTorientadordata}
-%    \ifthenelse{\equal{\ABNTcoorientadorname}{}}{}{%
-%	    \\
-%      {\orientadornameformat\ABNTcoorientadorname :\ }
-%      {\orientadorformat\ABNTcoorientadordata}
-%    }
-%  \end{center}
-%  }%
-\vspace*{1cm}
-\vfill\vfill\vfill
+\vfill\vfill\vfill\vfill
+
+% LOCAL E ANO 
+\espaco{0}
+%\setlength{\parskip}{0cm}
 \begin{center}
-  \begin{espacosimples}
-    \setlength{\parskip}{.3cm}
     \ABNTifnotempty{\ABNTlocaldata}
       {{\localformat\ABNTlocaldata}\par}
     \ABNTifnotempty{\ABNTdatadata}
       {{\dataformat\ABNTdatadata}}
-  \end{espacosimples}
 \end{center}
-\vspace*{1cm}
+\vspace*{.5cm}
+
+}
 % replacing \end{titlepage} by its meaning
-\if@restonecol\twocolumn \else \newpage \fi
-\espaco{\ABNTespacodefault}%Corrige bug 114
-}% end of \capa
+%\if@restonecol\twocolumn \else \newpage \fi
+%\espaco{\ABNTespacodefault}%Corrige bug 114
+% end of \capa
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % FOLHA DE ROSTO
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \renewcommand{\folhaderosto}%
 {%
 \begin{titlepage}
@@ -239,6 +232,20 @@
       {{\dataformat\ABNTdatadata}}
 \end{center}
 \end{titlepage}
+
+%\ABNTifnotempty{\ABNTorientadordata}%
+%  {%
+%  \begin{center}
+%    {\orientadornameformat\ABNTorientadorname :\ }
+%    {\orientadorformat\ABNTorientadordata}
+%    \ifthenelse{\equal{\ABNTcoorientadorname}{}}{}{%
+%	    \\
+%      {\orientadornameformat\ABNTcoorientadorname :\ }
+%      {\orientadorformat\ABNTcoorientadordata}
+%    }
+%  \end{center}
+%  }%
+
 }% end of \folhaderosto
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
