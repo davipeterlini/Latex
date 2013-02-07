@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.1.28)  5 FEB 2013 16:39
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.1.28)  7 FEB 2013 12:27
 entering extended mode
  %&-line parsing enabled.
 **bare_conf.tex
@@ -543,26 +543,26 @@ LaTeX Warning: Unused global option(s):
 (./bare_conf.aux)
 \openout1 = `bare_conf.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 30.
  (/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 \big@size=\dimen126
 Package caption Info: Begin \AtBeginDocument code.
 Package caption3 Info: subfig package 1.2 or 1.3 is loaded.
-LaTeX Info: Redefining \subref on input line 31.
+LaTeX Info: Redefining \subref on input line 30.
 Package caption Info: End \AtBeginDocument code.
 
 (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
@@ -579,43 +579,43 @@ Package caption Info: End \AtBeginDocument code.
 \everyMPtoPDFconversion=\toks20
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 33
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 31
 .
  (/usr/share/texmf-texlive/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 33
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 31
 .
 
 (/usr/share/texmf-texlive/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 33
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 31
 .
 
 (/usr/share/texmf-texlive/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 33
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 31
 .
 
 (/usr/share/texmf-texlive/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
  [0
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (2.28001pt too wide) in paragraph at lines 34--34
-  $[]$
+Overfull \hbox (2.28001pt too wide) in paragraph at lines 32--32
+[]  $[]$
  []
 
 [1]
@@ -650,11 +650,11 @@ Overfull \hbox (2.28001pt too wide) in paragraph at lines 36--39
 LaTeX Font Info:    Font shape `OT1/ptm/bx/sc' in size <20.74> not available
 (Font)              Font shape `OT1/ptm/b/sc' tried instead on input line 41.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 77.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 76.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 77.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 76.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 77.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 76.
  [3
 
 
@@ -675,7 +675,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
  [6
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
 
  []
 
@@ -707,26 +707,19 @@ File: cabecalhoOpenflow.png Graphic file (type png)
 <use cabecalhoOpenflow.png>
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10.95> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 185.
-
-<fluxoOpenflow.png, id=45, 789.95125pt x 292.09125pt>
+ [12.0.15 <./cabecalhoOpenflow.png (PNG copy)>]
+<fluxoOpenflow.png, id=49, 789.95125pt x 292.09125pt>
 File: fluxoOpenflow.png Graphic file (type png)
  <use fluxoOpenflow.png>
-<exemploSwitchOpenFlow.png, id=46, 729.72626pt x 221.82875pt>
+<exemploSwitchOpenFlow.png, id=50, 729.72626pt x 221.82875pt>
 File: exemploSwitchOpenFlow.png Graphic file (type png)
 
-<use exemploSwitchOpenFlow.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[12.0.15 <./cabecalhoOpenflow.png (PNG copy)>]
-<openflow.png, id=51, 1472.50125pt x 1194.4625pt>
+<use exemploSwitchOpenFlow.png> [13.0.15 <./fluxoOpenflow.png (PNG copy)> <./ex
+emploSwitchOpenFlow.png (PNG copy)>]
+<openflow.png, id=54, 1472.50125pt x 1194.4625pt>
 File: openflow.png Graphic file (type png)
- <use openflow.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (./arquitetura_routeflow.tex [13.0.15 <./fluxoOpenflow.png (PNG copy)>]
-[14.0.15 <./exemploSwitchOpenFlow.png (PNG copy)> <./openflow.png (PNG copy)>]
+ <use openflow.png>)
+(./arquitetura_routeflow.tex [14.0.15 <./openflow.png (PNG copy)>]
 Cap\'{\i }tulo 3.
 <visaoGeralRouteFlow.png, id=58, 936.49875pt x 673.51625pt>
 File: visaoGeralRouteFlow.png Graphic file (type png)
@@ -735,15 +728,16 @@ File: visaoGeralRouteFlow.png Graphic file (type png)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+[15.0.15
+
+]
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 76.
-(/usr/share/texmf-texlive/tex/latex/psnfss/omsptm.fd
+ (/usr/share/texmf-texlive/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 76.
- [15.0.15
-
-] [16.0.15 <./visaoGeralRouteFlow.png>]
+ [16.0.15 <./visaoGeralRouteFlow.png>]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 129.
  [17.0.15]
@@ -751,23 +745,34 @@ Overfull \hbox (30.49168pt too wide) in paragraph at lines 242--256
  [][] 
  []
 
-[18.0.15] <rfserverAssociacao.png, id=76, 503.63156pt x 502.87875pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18.0.15] <rfserverAssociacao.png, id=75, 503.63156pt x 502.87875pt>
 File: rfserverAssociacao.png Graphic file (type png)
 
 <use rfserverAssociacao.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Overfull \hbox (11.91595pt too wide) in paragraph at lines 307--316
 \OT1/ptm/m/n/12 bela 3.1[]: $\OML/ztmcm/m/it/12 vm[]id; vm[]port; dp[]id; dp[]p
 ort; ct[]id$\OT1/ptm/m/n/12 . Es-ses cam-pos s[]ao su-fi-ci-en-tes para a assoc
 ia[][]ao,
  []
 
-[19.0.15 <./rfserverAssociacao.png (PNG copy)>]) (./proxy_routeflow.tex
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[19.0.15] [20.0.15 <./rfserverAssociacao.png (PNG copy)>])
+(./proxy_routeflow.tex
 Overfull \hbox (0.51205pt too wide) in paragraph at lines 383--1
 \OT1/ptm/m/n/12 acordo com o tipo de co-mando exe-cuta as prin-ci-pais a[][]oes
 , mui-tas de-las exi-gindo a comunica[][]ao
  []
 
-[20.0.15]
+[21.0.15]
 Cap\'{\i }tulo 4.
 
 Overfull \hbox (10.9636pt too wide) in paragraph at lines 24--31
@@ -775,7 +780,7 @@ Overfull \hbox (10.9636pt too wide) in paragraph at lines 24--31
 ol-ve-dor a es-co-lher as lin-gua-gens de programa[][]ao
  []
 
-[21.0.15
+[22.0.15
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 89--99
@@ -797,14 +802,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--99
 
  []
 
-<esquematico_geral_proxy.png, id=86, 392.30565pt x 582.0144pt>
+<esquematico_geral_proxy.png, id=89, 392.30565pt x 582.0144pt>
 File: esquematico_geral_proxy.png Graphic file (type png)
 
 <use esquematico_geral_proxy.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[22.0.15]
+[23.0.15]
 Underfull \hbox (badness 10000) in paragraph at lines 199--206
 
  []
@@ -835,7 +840,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 225--231
 
  []
 
-
+[24.0.15]
 Overfull \hbox (1.70612pt too wide) in paragraph at lines 232--241
 []|\OT1/cmtt/m/n/12 Gerador de mensagens RouteFlow. Cada mensagem RouteFlow tem
  seu tipo e
@@ -918,7 +923,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 276--282
 
  []
 
-[23.0.15]
+
 Underfull \hbox (badness 10000) in paragraph at lines 283--289
 
  []
@@ -980,7 +985,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 306--315
 
  []
 
-
+[25.0.15]
 Overfull \hbox (1.70612pt too wide) in paragraph at lines 316--324
 []|\OT1/cmtt/m/n/12 Fun^^Xc~ao executada sempre que um switch OpenFlow abandona
  a rede. Sempre
@@ -1100,7 +1105,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 366--418
 
  []
 
-[24.0.15]
+
 Overfull \hbox (32.58113pt too wide) in paragraph at lines 419--429
 []|\OT1/cmtt/m/n/12 Fun^^Xc~ao usada para envio de dados ao banco de dados. O t
 ermo envio significa
@@ -1117,7 +1122,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 419--429
 
  []
 
-
+[26.0.15]
 Overfull \hbox (7.88112pt too wide) in paragraph at lines 430--439
 []|\OT1/cmtt/m/n/12 Fun^^Xc~ao usada para criar um novo canal de comunica^^Xc~a
 o. Usada na primeira
@@ -1166,21 +1171,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 506--512
 
  []
 
-<mensagens.png, id=99, 493.96545pt x 338.9463pt>
+<mensagens.png, id=105, 493.96545pt x 338.9463pt>
 File: mensagens.png Graphic file (type png)
  <use mensagens.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[25.0.15]
+[27.0.15]
 Overfull \hbox (0.151pt too wide) in paragraph at lines 529--533
 []\OT1/ptm/m/it/12 DatapathConfig: \OT1/ptm/m/n/12 men-sa-gem uti-li-zada para 
 configura[][]ao dos \OT1/ptm/m/it/12 swit-ches \OT1/ptm/m/n/12 via pro-to-colo 
 Open-
  []
 
-) (./resultados.tex [26.0.15] [27.0.15 <./esquematico_geral_proxy.png (PNG copy
-)>] [28.0.15 <./mensagens.png (PNG copy)>]
+) (./resultados.tex [28.0.15] [29.0.15 <./esquematico_geral_proxy.png (PNG copy
+)>] [30.0.15 <./mensagens.png (PNG copy)>]
 Cap\'{\i }tulo 5.
 
 Overfull \hbox (1.45898pt too wide) in paragraph at lines 19--28
@@ -1188,28 +1193,28 @@ Overfull \hbox (1.45898pt too wide) in paragraph at lines 19--28
 te vir-tual com as se-guin-tes configura[][]oes:
  []
 
-<latencia_1sw.png, id=112, 578.16pt x 433.62pt>
+<latencia_1sw.png, id=119, 578.16pt x 433.62pt>
 File: latencia_1sw.png Graphic file (type png)
  <use latencia_1sw.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[29.0.15
+[31.0.15
 
-] <latencia_4sw.png, id=116, 578.16pt x 433.62pt>
+] <latencia_4sw.png, id=123, 578.16pt x 433.62pt>
 File: latencia_4sw.png Graphic file (type png)
 
 <use latencia_4sw.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<desempenho_1sw.png, id=117, 578.16pt x 433.62pt>
+<desempenho_1sw.png, id=124, 578.16pt x 433.62pt>
 File: desempenho_1sw.png Graphic file (type png)
  <use desempenho_1sw.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<desempenho_4sw.png, id=118, 578.16pt x 433.62pt>
+<desempenho_4sw.png, id=125, 578.16pt x 433.62pt>
 File: desempenho_4sw.png Graphic file (type png)
  <use desempenho_4sw.png>
 
@@ -1221,16 +1226,16 @@ Overfull \hbox (18.41458pt too wide) in paragraph at lines 117--120
 n-tre os tr[]es pro-xies le-va-dos em considera[][]ao,
  []
 
-[30.0.15 <./latencia_1sw.png>]) (./conclusao.tex [31.0.15 <./latencia_4sw.png>]
-[32.0.15 <./desempenho_1sw.png> <./desempenho_4sw.png>]
+[32.0.15 <./latencia_1sw.png>]) (./conclusao.tex [33.0.15 <./latencia_4sw.png>]
+[34.0.15 <./desempenho_1sw.png> <./desempenho_4sw.png>]
 Cap\'{\i }tulo 6.
-<multiplosProxies.png, id=133, 874.76813pt x 363.60844pt>
+<multiplosProxies.png, id=139, 874.76813pt x 363.60844pt>
 File: multiplosProxies.png Graphic file (type png)
 
-<use multiplosProxies.png> [33.0.15
+<use multiplosProxies.png> [35.0.15
 
  <./multiplosProxies.png (PNG copy)>])
-(./agradecimentos.tex [34.0.15]
+(./agradecimentos.tex [36.0.15]
 Cap\'{\i }tulo 7.
 )
 No file bare_conf.bbl.
@@ -1238,21 +1243,24 @@ No file bare_conf.bbl.
 | Comentario, sugestao ou critica sobre o abnTeX? Entre em contato: |
 |                  http://abntex.codigolivre.org.br                 |
 +-------------------------------------------------------------------+
-[35.0.15
+[37.0.15
 
 ] (./bare_conf.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 5107 strings out of 493848
- 70964 string characters out of 1152823
- 163350 words of memory out of 3000000
- 8212 multiletter control sequences out of 15000+50000
+ 5108 strings out of 493848
+ 70980 string characters out of 1152823
+ 163279 words of memory out of 3000000
+ 8213 multiletter control sequences out of 15000+50000
  52063 words of font info for 96 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 43i,12n,45p,253b,390s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,13n,45p,253b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texli
 ve/fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr/share/texmf-texlive/fonts/t
 ype1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/public
@@ -1261,9 +1269,9 @@ m/cmtt12.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></us
 r/share/texmf-texlive/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-texliv
 e/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/t
 imes/utmr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on bare_conf.pdf (36 pages, 1816486 bytes).
+Output written on bare_conf.pdf (38 pages, 1817620 bytes).
 PDF statistics:
- 173 PDF objects out of 1000 (max. 8388607)
+ 182 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -104,6 +104,7 @@
 \renewcommand{\tituloformat}{\Large\bfseries\MakeUppercase}
 \newcommand{\tituloformataprovacao}{\Large\bfseries\MakeUppercase}
 \renewcommand{\autorformat}{\large\bfseries}
+\renewcommand{\autorformatrosto}{\large\bfseries}
 \newcommand{\autorformataprovacao}{\scshape\bfseries}
 \renewcommand{\orientadorformat}{\large\scshape\bfseries}
 \renewcommand{\orientadornameformat}{\orientadorformat}
@@ -133,48 +134,42 @@
 %\fi
 \thispagestyle{empty} %não exibir o numero de página
 \setcounter{page}\z@  %forma de contagem
-%\vspace*{1cm} %espaço vertical
-
 % INSTITUIÇÃO E CURSO
-\espaco{0}  %Espaçamento entre linhas
+%\espaco{0} 
+\setlength{\parskip}{0cm}
 \ABNTifnotempty{\\ABNTinstituicaodata}%
-  {%
+  {
    \begin{center}
      {\instituicaoformat\ABNTinstituicaodata\par}
      {\instituicaodetailsformat\ABNTinstituicaodetails\par}
    \end{center}
   }
 % AUTOR
-\vspace*{0cm}
-\espaco{1}  %Espaçamento entre linhas  
-\ABNTifnotempty{\ABNTautordata}%
-  {%
+%\vspace*{0cm}
+\espaco{1} 
+\ABNTifnotempty{\ABNTautordata}
+  {
   \begin{center}
     \autorformat\ABNTautordata\
   \end{center}
   }
 \vfill\vfill
-
 % TÍTULO
-\ABNTifnotempty{\ABNTtitulodata}%
-  {%
+\ABNTifnotempty{\ABNTtitulodata}
+  {
    \begin{center}
      {\tituloformat\ABNTtitulodata\par}
    \end{center}
   }
 \vfill\vfill\vfill\vfill
-
-% LOCAL E ANO 
-\espaco{0}
-%\setlength{\parskip}{0cm}
+% LOCAL E ANO é necessário ficar na penultima linha da página
+\setlength{\parskip}{0cm}
 \begin{center}
     \ABNTifnotempty{\ABNTlocaldata}
       {{\localformat\ABNTlocaldata}\par}
     \ABNTifnotempty{\ABNTdatadata}
       {{\dataformat\ABNTdatadata}}
 \end{center}
-\vspace*{.5cm}
-
 }
 % replacing \end{titlepage} by its meaning
 %\if@restonecol\twocolumn \else \newpage \fi
@@ -185,32 +180,25 @@
 % FOLHA DE ROSTO
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\renewcommand{\folhaderosto}%
-{%
+\renewcommand{\folhaderosto}
+{
 \begin{titlepage}
-\espaco{1.1}
-\ABNTifnotempty{\\ABNTinstituicaodata}%
-  {%
-   \begin{center}
-     {\instituicaoformat\ABNTinstituicaodata\par}
-     {\instituicaodetailsformat\ABNTinstituicaodetails\par}
-   \end{center}
+%\espaco{1.1}
+\ABNTifnotempty{\ABNTautordata}
+  {
+  \begin{center}
+    \autorformatrosto\ABNTautordata
+  \end{center}
   }
 \vfill\vfill\vfill
-\ABNTifnotempty{\ABNTtitulodata}%
-  {%
+\ABNTifnotempty{\ABNTtitulodata}
+  {
    \begin{center}
      {\tituloformat\ABNTtitulodata\par}
    \end{center}
-  }%
-\vfill
-\ABNTifnotempty{\ABNTautordata}%
-  {%
-  \begin{center}
-    \autorformat\ABNTautordata
-  \end{center}
   }
 \vfill
+
 \ABNTifnotempty{\ABNTcomentariodata}%
   {%
    \vspace{.8cm}

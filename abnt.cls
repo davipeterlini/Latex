@@ -1664,9 +1664,11 @@ Para mais informacoes, leia o manual da classe.\MessageBreak%
 \newcommand{\instituicao}[1]{\renewcommand{\ABNTinstituicaodata}{#1}}
 \newcommand{\instituicaoformat}{\scshape}
 
+
 \providecommand{\ABNTautordata}{}
 \newcommand{\autor}[1]{\renewcommand{\ABNTautordata}{#1}}
 \newcommand{\autorformat}{\large\ABNTsectionfont}
+\newcommand{\autorformatrosto}{\large\ABNTsectionfont}
 
 \providecommand{\ABNTorientadordata}{}
 \providecommand{\ABNTorientadorname}{}
@@ -1713,8 +1715,8 @@ Para mais informacoes, leia o manual da classe.\MessageBreak%
 \fi
 \thispagestyle{empty}%
 \setcounter{page}\z@
-\vspace*{1cm}
-\espaco{1.1}
+%\vspace*{1cm}
+%\espaco{1.1}
 \ABNTifnotempty{\ABNTautordata}%
   {%
   \begin{center}
@@ -1729,7 +1731,7 @@ Para mais informacoes, leia o manual da classe.\MessageBreak%
    \end{center}
   }%
 
-\vspace*{1cm}
+%\vspace*{1cm}
 \vfill\vfill\vfill
 \begin{center}
   \begin{espacosimples}
@@ -1740,7 +1742,7 @@ Para mais informacoes, leia o manual da classe.\MessageBreak%
       {{\dataformat\ABNTdatadata}}
   \end{espacosimples}
 \end{center}
-\vspace*{1cm}
+%\vspace*{1cm}
 % replacing \end{titlepage} by its meaning
 \if@restonecol\twocolumn \else \newpage \fi
 \espaco{\ABNTespacodefault}%Corrige bug 114
